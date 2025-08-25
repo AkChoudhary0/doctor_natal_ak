@@ -1,0 +1,2 @@
+C:/Users/sanan/Downloads/flutter_doctor_app/health_consultant_for_doctor/android/app/.cxx/RelWithDebInfo/4q4s30k3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sanan/Downloads/flutter_doctor_app/health_consultant_for_doctor/android/app/.cxx/RelWithDebInfo/4q4s30k3/x86_64/CMakeFiles/rebuild_cache.dir

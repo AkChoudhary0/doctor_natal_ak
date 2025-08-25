@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639256961120",
+    "project_id": "com-healthconsultant-doctor",
+    "storage_bucket": "com-healthconsultant-doctor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639256961120:android:878d1482a10596df3a6305",
+        "android_client_info": {
+          "package_name": "com.careconnect.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDysJ7mdKFOcHgtXwHRlhRt_YxIfWMDU1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

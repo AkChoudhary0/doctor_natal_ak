@@ -1,0 +1,1 @@
+C:\Users\sanan\Downloads\flutter_doctor_app\health_consultant_for_doctor\build\app\intermediates\cxx\Debug\695x641g\obj\armeabi-v7a

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\sanan\\Desktop\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\sanan\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\sanan\\Downloads\\flutter_doctor_app\\health_consultant_for_doctor\\android\\app\\.cxx\\RelWithDebInfo\\uc2n4a33\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\sanan\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\sanan\\Downloads\\flutter_doctor_app\\health_consultant_for_doctor\\android\\app\\.cxx\\RelWithDebInfo\\uc2n4a33\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
